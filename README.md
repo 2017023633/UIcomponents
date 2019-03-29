@@ -2,8 +2,8 @@
   
 ### 目的：对UI组件的使用  
   
-# SimpleAdapter  
-### 主要代码：  
+### SimpleAdapter  
+##### 主要代码：  
 ```
 package com.example.uicomponents;
 
@@ -61,5 +61,5 @@ public class SimpleadapterActivity extends AppCompatActivity {
     }
 }
 ```  
-### 结果截图:  
+##### 结果截图:  
 
