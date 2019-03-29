@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UI components</string>
+    <string name="title_activity_action_mode">ActionModeActivity</string>
+</resources>
