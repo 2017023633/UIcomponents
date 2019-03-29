@@ -3,7 +3,8 @@
 ### 目的：对UI组件的使用  
   
 ### SimpleAdapter  
-##### 主要代码：  
+#### 主要代码：  
+##### SimpleadapterActivity  
 ```
 package com.example.uicomponents;
 
@@ -61,5 +62,65 @@ public class SimpleadapterActivity extends AppCompatActivity {
     }
 }
 ```  
-##### 结果截图:  
+##### listview  
+```
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+<ListView
+    android:id="@+id/list_view"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:listSelector="@color/colorAccent">
+
+</ListView>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2"
+        android:onClick="onClick"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="3"
+        android:onClick="Click"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="4"
+        android:onClick="on"/>
+</LinearLayout>
+```  
+##### simpleadapter  
+```
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SimpleadapterActivity"
+    android:orientation="horizontal">
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        />
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="0dp"
+            android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+</LinearLayout>
+
+```  
+#### 结果截图:  
 
