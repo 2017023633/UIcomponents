@@ -123,7 +123,7 @@ public class SimpleadapterActivity extends AppCompatActivity {
 
 ```  
 #### 结果截图:  
-![image text]（https://github.com/2017023633/hello-world/blob/master/image/%E5%AE%9E%E9%AA%8C3.1%E6%88%AA%E5%9B%BE.png）  
+![image text](https://github.com/2017023633/hello-world/blob/master/image/%E5%AE%9E%E9%AA%8C3.1%E6%88%AA%E5%9B%BE.png)    
   
 ### AlertDialog  
 #### 主要代码:  
@@ -187,7 +187,7 @@ public class AlertDialogActivity extends AppCompatActivity {
 </LinearLayout>  
 ```  
 ### 结果截图：  
-![image text]（https://github.com/2017023633/hello-world/blob/master/image/%E5%AE%9E%E9%AA%8C3.2%E6%88%AA%E5%9B%BE.png）  
+![image text](https://github.com/2017023633/hello-world/blob/master/image/%E5%AE%9E%E9%AA%8C3.2%E6%88%AA%E5%9B%BE.png)    
   
 ### menu  
 #### 主要代码：  
@@ -315,10 +315,10 @@ public class MenuActivity extends AppCompatActivity {
 </menu>
 ```  
 ### 结果截图：  
-![image text]（https://github.com/2017023633/hello-world/blob/master/image/实验3.3截图1.png）  
-![image text]（https://github.com/2017023633/hello-world/blob/master/image/%E5%AE%9E%E9%AA%8C3.3%E6%88%AA%E5%9B%BE2.png）  
-![image text]（https://github.com/2017023633/hello-world/blob/master/image/%E5%AE%9E%E9%AA%8C3.3%E6%88%AA%E5%9B%BE3.png）  
-![image text]（https://github.com/2017023633/hello-world/blob/master/image/%E5%AE%9E%E9%AA%8C3.3%E6%88%AA%E5%9B%BE4.png）  
+![image text](https://github.com/2017023633/hello-world/blob/master/image/实验3.3截图1.png)    
+![image text](https://github.com/2017023633/hello-world/blob/master/image/%E5%AE%9E%E9%AA%8C3.3%E6%88%AA%E5%9B%BE2.png)    
+![image text](https://github.com/2017023633/hello-world/blob/master/image/%E5%AE%9E%E9%AA%8C3.3%E6%88%AA%E5%9B%BE3.png)    
+![image text](https://github.com/2017023633/hello-world/blob/master/image/%E5%AE%9E%E9%AA%8C3.3%E6%88%AA%E5%9B%BE4.png)    
   
 ### ActionMode  
 #### 主要代码：  
@@ -453,4 +453,4 @@ public class ActionModeActivity extends AppCompatActivity {
 </menu>
 ```  
 #### 结果截图：  
-![image text]（https://github.com/2017023633/hello-world/blob/master/image/%E5%AE%9E%E9%AA%8C3.4%E6%88%AA%E5%9B%BE.png）  
+![image text](https://github.com/2017023633/hello-world/blob/master/image/%E5%AE%9E%E9%AA%8C3.4%E6%88%AA%E5%9B%BE.png)    
