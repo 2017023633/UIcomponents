@@ -1,6 +1,6 @@
 # UIcomponents  
   
-# 目的：对UI组件的使用  
+### 目的：对UI组件的使用  
   
 # SimpleAdapter  
 ### 主要代码：  
