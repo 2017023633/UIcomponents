@@ -4,7 +4,7 @@
   
 ### SimpleAdapter  
 #### 主要代码：  
-##### SimpleadapterActivity  
+##### SimpleadapterActivity.java  
 ```
 package com.example.uicomponents;
 
@@ -62,7 +62,7 @@ public class SimpleadapterActivity extends AppCompatActivity {
     }
 }
 ```  
-##### listview  
+##### listview.xml  
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -93,7 +93,7 @@ public class SimpleadapterActivity extends AppCompatActivity {
         android:onClick="on"/>
 </LinearLayout>
 ```  
-##### simpleadapter  
+##### simpleadapter.xml  
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -123,4 +123,5 @@ public class SimpleadapterActivity extends AppCompatActivity {
 
 ```  
 #### 结果截图:  
+
 
